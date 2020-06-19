@@ -1,0 +1,6 @@
+token:afb7a93db82bc81fa3bea71ea096c61534478f75
+
+如果遇到suspend的问题以下解决方法
+git config --global credential.helper store  //清除git用户名
+然后去user->wengkeyu->.gitconfig文件夹下修改配置
+clone 输入用户名和token就可以了
